@@ -5,7 +5,7 @@
     <string name="last_name">Ramirez</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">Hi!🖐️ I am a software engineering student at MDC based in Miami, FL 🏝️☀️.\nwith a passion for diving into new tech adventures!🚀\na complex being.</string>
+    <string name="profile_bio_text">Hi!🖐️ I am a software engineering student at MDC based in Miami, FL 🏝️☀️.\nwith a passion for diving into new tech adventures!🚀.</string>
 
     <string name="profile_hobby_header_text">MY HOBBIES:</string>
     <string name="profile_hobby_first_text">🥇 Learning new technologies 👩🏼‍💻</string>
