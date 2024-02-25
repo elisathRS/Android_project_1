@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
+    <string name="first_name">Mary</string>
+    <string name="last_name">Ramirez</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">I am a software engineering student at MDC based in Miami, FL.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">Hi!🖐️ I am a software engineering student at MDC based in Miami, FL 🏝️☀️.\nwith a passion for diving into new tech adventures!🚀\na complex being.</string>
 
-    <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 Cooking</string>
-    <string name="profile_hobby_second_text">🥈 Rock climbing</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_header_text">MY HOBBIES:</string>
+    <string name="profile_hobby_first_text">🥇 Learning new technologies 👩🏼‍💻</string>
+    <string name="profile_hobby_second_text">🥈 Rock climbing 🧗🏻‍</string>
+    <string name="profile_hobby_third_text">🥉 Cooking Colombian Food 👩🏼‍🍳</string>
 </resources>

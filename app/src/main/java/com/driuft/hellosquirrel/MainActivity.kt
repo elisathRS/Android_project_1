@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setupProfile() {
-
         configureName()
     }
 
